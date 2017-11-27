@@ -1,0 +1,47 @@
+.wrapper {
+	background-color: #80cdc6;
+	margin: 5%;
+	box-sizing: border-box;
+	position: relative;
+	font-size: 0;
+	overflow: hidden;
+}
+
+.cloud {
+	width: 60%;
+	float: right;
+	margin-bottom: -30px;
+	margin-top: -10px;
+}
+
+.cloud__img {
+	width: 100%;
+}
+
+.world {
+	width: 100%;
+}
+
+.world__img {
+	width: 100%;
+}
+.water {
+	margin-top: -9%;
+	width: 100%;
+	position: relative;
+}
+
+.water__img {
+	width: 100%;
+}
+
+.ship {
+	width: 19.5%;
+	position: absolute;
+	left: 4%;
+	bottom: 9%;
+}
+
+.ship__img {
+	width: 100%;
+}
